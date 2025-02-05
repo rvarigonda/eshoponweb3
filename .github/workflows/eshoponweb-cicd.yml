@@ -6,7 +6,7 @@ Triggers (uncomment line below to use it)
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
   RESOURCE-GROUP: eshoponweb-rg
-  LOCATION: eastus
+  LOCATION: East US
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 8fa08600-e88a-4fc3-ab46-c0c9ed1c2f8f
   WEBAPP-NAME: eshoponweb-webapp-nw
